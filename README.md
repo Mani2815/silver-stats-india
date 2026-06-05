@@ -45,7 +45,7 @@ To run this application locally, follow these steps:
 
 3. **Run the Streamlit application:**
    ```bash
-   streamlit run cia1.py
+   streamlit run main.py
    ```
 
 4. **Access the app:**
