@@ -33,7 +33,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mani2815/2547261_CIA1.git
+   git clone https://github.com/Mani2815/silver-stats-india.git
    cd 2547261_CIA1
    ```
 
